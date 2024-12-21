@@ -5,7 +5,6 @@
 Clone this package in the `src` folder of your ROS 2 workspace. Check for missing dependencies
 ```
  git clone https://github.com/FedericoTr26/RL_Homework-4.git
-
 ```
 Build your new package
 
@@ -23,7 +22,6 @@ Source the setup files
 Run Gazebo (REMEMBER TO CLICK PLAY)
 ```
  ros2 launch rl_fra2mo_description gazebo_fra2mo.launch.py
-
 ```
 In the second terminal run the exploration
 ```
